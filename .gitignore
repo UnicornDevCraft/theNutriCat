@@ -1,0 +1,19 @@
+# Virtual environment
+theNutriCatEnv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# SQLite database
+*.db
+
+# Dependency file backups
+*.bak
+
+# IDE/editor-specific files
+.vscode/
+.idea/
